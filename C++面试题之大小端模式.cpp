@@ -51,7 +51,8 @@ using namespace std;
 0x4003    0x78
 
 联合体union的存放顺序是所有成员都从低地址开始存放。
-二、什么是大端和小端
+什么是大端和小端
+参考：[https://blog.csdn.net/ce123_zhouwei/article/details/6971544]
         Big-Endian和Little-Endian的定义如下：
 1) Little-Endian就是低位字节排放在内存的低地址端，高位字节排放在内存的高地址端。
 2) Big-Endian就是高位字节排放在内存的低地址端，低位字节排放在内存的高地址端。
