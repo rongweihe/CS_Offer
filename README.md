@@ -1,6 +1,6 @@
 ![github](https://github.com/rongweihe/CS_Offer/blob/master/github.jpg)
 
-# 后台开发基础知识
+# 后台开发基础知识（待补充）
 
 最近在思考一个问题：在互联网时代，面对浩如烟海的资讯和各种参差不齐的资料，我们如何进行有效的筛选，甄别出对我们最有用，最精炼的知识？
 
