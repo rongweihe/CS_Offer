@@ -1,4 +1,6 @@
 
+## geiPiCode
+```c++
 #include <bits/stdc++.h>
 using namespace std;
 double eps = 1e-15;
@@ -20,3 +22,4 @@ double arctan(double x)
     return r;
 }
 pi = 16.0*arctan(1/5.0) - 4.0*arctan(1/239.0);
+```c++
