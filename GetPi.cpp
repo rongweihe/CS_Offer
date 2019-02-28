@@ -1,7 +1,7 @@
-
 /*
-geiPiCode
-c++
+Date:2019/02/28 14:12
+Author:rongweihe
+About:geiPiCode use C++
 pi = 16.0*arctan(1/5.0) - 4.0*arctan(1/239.0);
 */
 #include <bits/stdc++.h>
