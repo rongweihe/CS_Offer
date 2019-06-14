@@ -1,5 +1,9 @@
 ![github](https://github.com/rongweihe/CS_Offer/blob/master/github.jpg)
 
+| Chapter 1                                                    | Chapter 2                                                    | Chapter 3                                                    | Chapter 4                                                    | Chapter 5                                                    | Chapter 6                                                    | Chapter 7                                                    |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [错题+真题精解](https://github.com/rongweihe/CS_Offer/blob/master/%E9%94%99%E9%A2%98%2B%E7%9C%9F%E9%A2%98%E7%B2%BE%E8%A7%A3.md) | [编程语言](https://github.com/rongweihe/CS_Offer/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%EF%BC%88C%7C%7CC%2B%2B%7C%7CPython%7C%7CJava%7C%7CGo%EF%BC%89.md) | [数据结构与算法](https://github.com/rongweihe/CS_Offer/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95.md) | [计算机网络](https://github.com/rongweihe/CS_Offer/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C.md) | [操作系统](https://github.com/rongweihe/CS_Offer/blob/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.md) | [数据库](https://github.com/rongweihe/CS_Offer/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93.md) | [Linux网络编程](https://github.com/rongweihe/CS_Offer/blob/master/Linux%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B.md) |
+
 # 后台开发基础知识（待补充）
 
 最近在思考一个问题：在互联网时代，面对浩如烟海的资讯和各种参差不齐的资料，我们如何进行有效的筛选，甄别出对我们最有用，最精炼的知识？
@@ -10,7 +14,7 @@
 
 不知道上面几段话，对大家有没有一些启发，对我个人而言，耗子叔其实讲的就是一种「信息素养」的问题，信息输入给你，你会不会查找信息的来源？比如说当你看到标题里面带着名人名言的时候，你有没有去核实一下这个人说过类似的话没有？当你看到同一篇新闻稿你会不会稍微花点时间去看一下其他媒体的新闻来求证信息的真伪。每天面对这么多的知识，我们要学会筛选有价值的知识，养成一种批判性思维，一种怀疑的精神，一种好奇心。学会将时间和重点关注在精炼的知识本身。
 
-马上就要春招/秋招,这里将以最短的篇幅，最清晰的层级结构去总结那些对C++后台开发最为核心的内容。
+马上就要春招/秋招,这里将以最短的篇幅，最清晰的层级结构去总结后台开发最为核心的内容。
 
 现在越发觉得少即是多，看再多东西没有理解透彻都是白搭，把最常用的每天过一遍才是最有效的。
 
@@ -36,6 +40,4 @@
 
 - 方便后期复盘。
 
-| Chapter 1                                                    | Chapter 2                                                    | Chapter 3                                                    | Chapter 4                                                    | Chapter 5                                                    | Chapter 6                                                    | Chapter 7                                                    |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [错题+真题精解](https://github.com/rongweihe/CS_Offer/blob/master/%E9%94%99%E9%A2%98%2B%E7%9C%9F%E9%A2%98%E7%B2%BE%E8%A7%A3.md) | [编程语言](https://github.com/rongweihe/CS_Offer/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%EF%BC%88C%7C%7CC%2B%2B%7C%7CPython%7C%7CJava%7C%7CGo%EF%BC%89.md) | [数据结构与算法](https://github.com/rongweihe/CS_Offer/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95.md) | [计算机网络](https://github.com/rongweihe/CS_Offer/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C.md) | [操作系统](https://github.com/rongweihe/CS_Offer/blob/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.md) | [数据库](https://github.com/rongweihe/CS_Offer/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93.md) | [Linux网络编程](https://github.com/rongweihe/CS_Offer/blob/master/Linux%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B.md) |
+
