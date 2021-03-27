@@ -1,6 +1,11 @@
 # 宝藏级资源 | 后端编程学习资源整理
 
+### 知识图谱
+
+大厂 20 + 高清技能知识图谱分享链接: https://pan.baidu.com/s/1bgZhYkWIiESIqTwjfJe3YQ  密码: 57w0
+
 ## C++：
+
 - 侯捷 - 「STL」与泛型编程（GP）：https://www.bilibili.com/video/BV1Ts411L74e
 - 侯捷 - C++ 面向对象高级编程：https://www.bilibili.com/video/BV1jp411f7af
 - 侯捷 - C++ Startup 揭密：C++ 程序的生前和死后：https://www.bilibili.com/video/BV1DW41167MQ
@@ -11,6 +16,7 @@
 
 ## Linux 高并发网络编程
 - Linux 高并发网络编程开发：https://www.bilibili.com/video/BV14t411e7Pd
+- Linux后端项目开发实战：链接: https://pan.baidu.com/s/1m7anxQzLQbVQc3SJUHFz6w  密码: 8qj4
 
 ## 算法与数据结构：
 -【普林斯顿】Algorithms, Part I（Princeton University）：https://www.bilibili.com/video/BV184411G7D2（强烈推荐）
@@ -37,7 +43,7 @@
 
 ## 更多精彩
 
-![](https://cdn.jsdelivr.net/gh/rongweihe/ImageHost01/images/weichatlogo.png)
+ <img src="https://cdn.jsdelivr.net/gh/rongweihe/ImageHost01/images/weichatlogo.png" width = "500" height = "200" alt="图片名称" align=center />
 
 关注公众号【herongwei】，后台回复【大礼包】即可获取白嫖后端技术知识+算法电子书~
 
