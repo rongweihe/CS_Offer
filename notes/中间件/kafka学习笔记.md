@@ -20,17 +20,17 @@
 
 将注册信息写入数据库成功后，发送注册邮件，然后发送注册短信，而所有任务执行完成后，返回信息给客户端
 
-![image-20200401173548661](./.assets/image-20200401173548661.png)
+![image-20200401173548661](https://cdn.jsdelivr.net/gh/rongweihe/ImageHost01/gzh/kafka01.png)
 
 **并行方式：**
 
  将注册信息写入数据库成功后，同时进行发送注册邮件和发送注册短信的操作。而所有任务执行完成后，返回信息给客户端。同串行方式相比，并行方式可以提高执行效率，减少执行时间。 
 
-![image-20200401204150702](./.assets/image-20200401204150702.png)
+![image-20200401204150702](https://cdn.jsdelivr.net/gh/rongweihe/ImageHost01/gzh/kafka02.png)
 
 **使用消息队列：**
 
-![image-20200401204251266](./.assets/image-20200401204251266.png)
+![image-20200401204251266](https://cdn.jsdelivr.net/gh/rongweihe/ImageHost01/gzh/kafka03.png)
 
 根据上述的流程，用户的响应时间基本相当于将用户数据写入数据库的时间，发送注册邮件、发送注册短信的消息在写入消息队列后，即可返回执行结果，写入消息队列的时间很快，几乎可以忽略，也有此可以将系统吞吐量提升至20QPS，比串行方式提升近3倍，比并行方式提升2倍。
 
@@ -44,7 +44,7 @@
 
 传统的做法为：订单系统调用库存系统的接口。如下图所示：
 
-![image-20200401204804056](./.assets/image-20200401204804056.png)
+![image-20200401204804056](https://cdn.jsdelivr.net/gh/rongweihe/ImageHost01/gzh/kafka04.png)
 
 
 
@@ -54,7 +54,7 @@
 
 **使用消息队列：**
 
-![image-20200401204944168](./.assets/image-20200401204944168.png)
+![image-20200401204944168](https://cdn.jsdelivr.net/gh/rongweihe/ImageHost01/gzh/kafka05.png)
 
 - 订单系统：用户下单后，订单系统进行数据持久化处理，然后将消息写入消息队列，返回订单创建成功
 - 库存系统：使用拉/推的方式，获取下单信息，库存系统根据订单信息，进行库存操作。
@@ -78,13 +78,13 @@
 
 **点对点通讯：**
 
-![image-20200401205926315](./.assets/image-20200401205926315.png)
+![image-20200401205926315](https://cdn.jsdelivr.net/gh/rongweihe/ImageHost01/gzh/kafka06.png)
 
 在点对点通讯架构设计中，客户端A和客户端B共用一个消息队列，即可实现消息通讯功能。
 
 **聊天室通讯**：
 
-![image-20200401210029429](./.assets/image-20200401210029429.png)
+![image-20200401210029429](https://cdn.jsdelivr.net/gh/rongweihe/ImageHost01/gzh/kafka07.png)
 
  客户端A、客户端B、直至客户端N订阅同一消息队列，进行消息的发布与接收，即可实现聊天通讯方案架构设计。 
 
@@ -98,9 +98,7 @@
 消息生产者生产消息发送到Queue中，然后消息消费者从Queue中取出并且消费消息。消息被消费以后，queue 中不再有存储，所以消息消费者不可能消费到已经被消费的消息。Queue 支持存在多个消费者，但是对一个消息而言，只会有一个消费者可以消费
 ```
 
-
-
-![image-20200401210638369](./.assets/image-20200401210638369.png)
+![](https://cdn.jsdelivr.net/gh/rongweihe/ImageHost01/gzh/kafka088.png)
 
 ### 3.2 发布/订阅模式 
 
@@ -110,7 +108,7 @@
 消息生产者（发布）将消息发布到 topic 中，同时有多个消息消费者（订阅）消费该消息。和点对点方式不同，发布到 topic 的消息会被所有订阅者消费。
 ```
 
-![image-20200401210727451](./.assets/image-20200401210727451.png)
+![image-20200401210727451](https://cdn.jsdelivr.net/gh/rongweihe/ImageHost01/gzh/kafka09.png)
 
 
 
