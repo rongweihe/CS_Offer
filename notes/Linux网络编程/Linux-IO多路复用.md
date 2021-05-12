@@ -129,7 +129,6 @@ int main(int argc, char **argv) {
     if (efd == -1) {
         error(1, errno, "epoll create failed");
     }
-  
 		/*
 		调用 epoll_ctl 将监听套接字对应的 I/O 事件进行了注册，这样在有新的连接建立之后
 		就可以感知到。注意这里使用的是 edge-triggered（边缘触发）。
