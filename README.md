@@ -28,7 +28,7 @@
 
 有效的知识总结方法能大大提高学习效率。
 
-## 好处有以下几点：
+# 好处有以下几点：
 
 - 系统：从而理清各知识点之间的联系和区别。
 
@@ -40,3 +40,55 @@
 
 - 方便后期复盘。
 
+# 程序员求职（长期招聘）
+
+**岗位：社招-搜狗搜索 APP-后端开发工程师-搜索事业部-全职**
+
+**地点：北京**
+
+职位描述
+
+工作职责：
+
+1、负责小说及应用的的爬取解析工作
+
+2、负责现有数据流程维护优化
+
+3、负责现有抓取解析架构优化
+
+任职要求：
+
+1、有扎实的数据结构和算法功底；
+
+2、工作认真细致踏实，有较强的学习能力 ；
+
+3、熟悉 Linux 开发环境，熟悉 python、C++ 或 Java 语言 ；
+
+4、理解 http，熟悉 html, DOM, xpath, scrapy 优先 ；
+
+5、有爬虫，信息抽取，相关经验者优先 
+
+有意向可以发简历到邮箱：herongwei@sogou-inc.com 
+
+# 关于作者
+
+大家好，我是程序员小贺，北交大师兄，喜欢算法，热爱编程，热爱生活，目前就职于五道口搜狗。
+
+**加我的微信，备注：「个人简单介绍」+「读者」**， 拉你进读者交流群。
+
+<div  align="center">   <img src="https://cdn.jsdelivr.net/gh/rongweihe/ImageHost01/gzh/weichat001.jpeg" width = "300" height = "400" align=center/> </div>
+
+# 我的公众号
+
+内容公众号同步更新，有时候不适合发 Github 的东西我也会发在公众号里面，所以请各位大大也扫码关注，支持一波吧
+
+<p align="center">
+  <a href="https://github.com/rongweihe/MoreThanCode/">
+      <img src="https://cdn.jsdelivr.net/gh/rongweihe/ImageHost01/gzh/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%BA%95%E9%83%A8.jpeg" height="200" width="500">
+  </a>
+</p>
+
+
+# 投稿
+
+投稿请添加[上方个人微信二维码](#微信)联系，**请备注来意，感谢您的支持！**
