@@ -4,7 +4,7 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [错题+真题精解](https://github.com/rongweihe/CS_Offer/blob/master/notes/%E9%94%99%E9%A2%98%2B%E7%9C%9F%E9%A2%98%E7%B2%BE%E8%A7%A3.md) | [编程语言](https://github.com/rongweihe/CS_Offer/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%EF%BC%88C%7C%7CC%2B%2B%7C%7CPython%7C%7CJava%7C%7CGo%EF%BC%89.md) | [数据结构与算法](https://github.com/rongweihe/Algorithms) | [计算机网络](https://github.com/rongweihe/CS_Offer/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C.md) | [操作系统](https://github.com/rongweihe/CS_Offer/blob/master/notes/%E6%80%BB%E7%9B%AE%E5%BD%95-%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%A4%8D%E4%B9%A0.md) | [数据库](https://github.com/rongweihe/CS_Offer/tree/master/notes/%E6%95%B0%E6%8D%AE%E5%BA%93) | [Linux网络编程](https://github.com/rongweihe/CS_Offer/blob/master/notes/Linux%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B.md) |
 
-# 后台开发基础知识（待补充）
+# 后台开发基础知识（持续更新中）
 
 最近在思考一个问题：在互联网时代，面对浩如烟海的资讯和各种参差不齐的资料，我们如何进行有效的筛选，甄别出对我们最有用，最精炼的知识？
 
